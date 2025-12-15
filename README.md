@@ -23,8 +23,8 @@
 🔹 [**Shloka Setu**](https://github.com/Muskangupta15223/Shloka-Setu)  
 🕉️ A Bhagavad Gita reader built with React, Vite, and Firebase Auth — bridging tradition and technology with a soulful UI.
 
-🔹 [**Ticket Booking App**](https://github.com/Muskangupta15223/ticket-booking-app)  
-🎫 A console-based Java application for train ticket booking, built using OOP and JSON for data handling.
+🔹 [**Quick Bite**]()
+   Quick Bite is a fast and user-friendly food ordering app that helps users discover, order, and enjoy meals effortlessly.
 
 ---
 
